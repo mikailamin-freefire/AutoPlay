@@ -14,5 +14,5 @@ Trigger automatic taps using your physical buttons like the **volume keys** — 
 - **AutoPlay** *(No Root Required)*  
   Perfect for casual automation without root access.
 
-- **AutoPlay Pro** *(Root Required)*  
+- **AutoPlay Pro** *(Root Required)*  (Coming soon)
   Unlock the full power of automation with advanced features and deeper system integration.
